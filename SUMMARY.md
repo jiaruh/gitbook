@@ -1,6 +1,6 @@
 # Table of contents
 
-* [学习笔记](README.md)
+* [Study Notes](README.md)
 
 ## C++
 
